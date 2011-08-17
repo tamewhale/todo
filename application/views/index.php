@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 
     <title>To-do List</title>
 
     <meta name="description" content="A simple to-do list application" />
-    <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
-    
-	<link rel="stylesheet" type="text/css" href="<?php echo base_url() . 'css/style.css'; ?>" />
+    <meta charset="utf-8" />
+
+	<link rel="stylesheet" href="<?php echo base_url() . 'css/style.css'; ?>" />
     <!-- Grab latest version of jQuery -->
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-    <!-- <script type="text/javascript" src="<?php echo base_url() . 'js/todo.js'; ?>"></script> -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <!-- <script src="<?php echo base_url() . 'js/todo.js'; ?>"></script> -->
 
 </head>
 <body>
