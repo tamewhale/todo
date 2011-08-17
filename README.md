@@ -1,0 +1,1 @@
+This is a simple todo list web app built on CodeIgniter as an exercise.
