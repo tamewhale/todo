@@ -1,0 +1,3 @@
+# ignore CodeIgniter files that we're not changing
+system/
+user_guide/
