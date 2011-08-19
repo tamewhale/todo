@@ -1,3 +1,13 @@
 # ignore CodeIgniter files that we're not changing
 system/
 user_guide/
+application/cache/
+application/config/
+application/core/
+application/errors/
+application/helpers/
+application/hooks/
+application/language/
+application/libraries/
+application/logs/
+application/third_party/
